@@ -27,7 +27,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an incoming fourth-year Ph.D student in Gaoling School of AI, Renmin University of China ([GASI@RUC](http://ai.ruc.edu.cn/english/index.htm)), advised by [Prof. Zhewei Wei](www.weizhewei.com). I previously earned my Bachelor's and Master's degrees from RUC. My master journey was primarily about graph databases and word embeddings, advised by Professors [Xiaoyong Du](https://dblp.uni-trier.de/pid/47/3542.htmlhttps://dblp.uni-trier.de/pid/47/3542.html) and [Wei Lu](https://scholar.google.com/citations?user=v04EazgAAAAJ&hl=en). 
+I am an incoming fourth-year Ph.D student in Gaoling School of AI, Renmin University of China ([GASI@RUC](https://ai.ruc.edu.cn/english/index.htm)), advised by [Prof. Zhewei Wei](https://www.weizhewei.com). I previously earned my Bachelor's and Master's degrees from RUC. My master journey was primarily about graph databases and word embeddings, advised by Professors [Xiaoyong Du](https://dblp.uni-trier.de/pid/47/3542.html) and [Wei Lu](https://scholar.google.com/citations?user=v04EazgAAAAJ&hl=en). 
 
 Since the beginning of my Ph.D. journey, 
 my primary research has focused on **Graph Neural Networks**(GNNs),
