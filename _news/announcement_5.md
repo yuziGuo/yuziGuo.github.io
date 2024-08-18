@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I build my personal webpage :sparkles:
+I build my personal webpage :)

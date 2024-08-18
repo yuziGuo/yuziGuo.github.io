@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I recently wrote an [article](https://www.zhihu.com/question/22298352/answer/3595067328) on Zhihu . It's about [a constructive proof of SVD's existence, and the optimization perspective it introduces](https://www.zhihu.com/question/22298352/answer/3595067328). 
+I recently wrote an [article](https://www.zhihu.com/question/22298352/answer/3595067328) on Zhihu . It's about [the constructive proof of SVD's existence, and the optimization perspective it introduces](https://www.zhihu.com/question/22298352/answer/3595067328). 

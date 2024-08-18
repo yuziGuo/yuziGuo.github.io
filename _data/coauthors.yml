@@ -2,9 +2,38 @@
   - firstname: ["Wei"]
     url: https://www.weizhewei.com
 
-"wei":
-  - firstname: ["Zhewei"]
-    url: https://www.weizhewei.com
+"xuehan":
+  - firstname: ["Ye"]
+    url: https://ca.linkedin.com/in/xuehan-ye-a5b256226?trk=public_profile_browsemap
+
+"tao":
+  - firstname: ["Liu"]
+    url: https://scholar.google.com.hk/citations?user=CU5OeFIAAAAJ&hl=zh-CN
+
+"xiaoyong":
+  - firstname: ["Du"]
+    url: https://dblp.uni-trier.de/pid/47/3542.html
+
+"deying":
+  - firstname: ["Li"]
+    url: https://dblp.org/pid/63/1296-1.html
+
+"bofang":
+  - firstname: ["Li"]
+    url: https://bofang.stat-nba.com
+
+"yongcai":
+  - firstname: ["Wang"]
+    url: https://yongcaiwang.github.io
+
+"aleksandr":
+  - firstname: ["Drozd"]
+    url: https://scholar.google.com/citations?user=Bm2C958AAAAJ&hl=zh-CN
+
+"satoshi":
+  - firstname: ["Matsuoka"]
+    url: https://scholar.google.com/citations?user=Bm2C958AAAAJ&hl=zh-CN
+
 
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
