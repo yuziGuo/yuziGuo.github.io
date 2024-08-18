@@ -110,10 +110,10 @@ GEM
     jekyll-minifier (0.1.10)
       cssminify2 (~> 2.0)
       htmlcompressor (~> 0.4)
+      jekyll (>= 2.0, < 5.0)
       jekyll (>= 3.5)
       json-minify (~> 0.0.3)
       uglifier (~> 4.1)
-      jekyll (>= 2.0, < 5.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-regex-replace (1.1.0)
@@ -226,7 +226,6 @@ DEPENDENCIES
   jekyll-jupyter-notebook
   jekyll-link-attributes
   jekyll-minifier
-  jekyll-multiple-languages-plugin
   jekyll-paginate-v2
   jekyll-regex-replace
   jekyll-scholar
